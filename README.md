@@ -1,3 +1,3 @@
 # fluffy-lamp
 
-Hej på dig!
+Hej!
