@@ -1,3 +1,3 @@
 # fluffy-lamp
 
-Hej!
+Hej! Detta är en README.
